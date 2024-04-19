@@ -6,11 +6,6 @@ This project uses TensorFlow to create and utilize a neural network for predicti
 1. **Model Builder (`model_builder.py`)**: This script builds and trains a machine learning model on a sequence of ages.
 2. **Model User (`model_user.py`)**: This script loads the trained model and uses it to make age predictions based on user input.
 
-## Requirements
-- Python 3.x
-- TensorFlow 2.x
-- NumPy
-
 ## Setup
 
 ### Requirements
